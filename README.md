@@ -26,7 +26,7 @@ Steps Followed:
 * [Step 8]() Add constructor to Board class that stores state of the entire board.
 * [Step 8.1]() Change Board's renderSquare method return.
 * [Step 8.2]() Change Square's render method.
-* [Step ]() 
+* [Step 8.3]() Add handleClick method to Board class.
 * [Step ]() 
 * [Step ]() 
 * [Step ]() 
