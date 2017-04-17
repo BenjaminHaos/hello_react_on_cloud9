@@ -40,7 +40,8 @@ Steps Followed:
     * someone has already won the game.
 * [Step 12.1]() Add constructor to Game. The constructor create a state object with two atributes. The first atribute is the history array. The history array contains an object that represents the initial empty board with an array of nine null values. The second state atribute is the xIsNext variable set to true.
     * App should still function correctly.
-* [Step ]() 
+* [Step 12.2]() Remove constructor from Board class.
+    * App does not function now.
 * [Step ]() 
 * [Step ]() 
 
