@@ -42,6 +42,14 @@ Steps Followed:
     * App should still function correctly.
 * [Step 12.2]() Remove constructor from Board class.
     * App does not function now.
+* [Step 12.3]() Modify return of Board's renderSquare method.
+    * App does not function now.
+* [Step ]() 
+* [Step ]() 
+* [Step ]() 
+* [Step ]() 
+* [Step ]() 
+* [Step ]() 
 * [Step ]() 
 * [Step ]() 
 
