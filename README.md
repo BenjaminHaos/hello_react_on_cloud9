@@ -13,6 +13,7 @@ Steps Followed:
     * Run command: ```create-react-app tic_tac_toe_hello```.
 * Remove file not needed.
     * Notice README.md file created by create command contains useful info.
-* [Step 4]()Remove code from these files remaining.
+* [Step 4]() Remove code from these files remaining.
     * src/index.js
     * src/App.js
+* [Step 5]() Copy Start here code into file.
