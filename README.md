@@ -24,8 +24,8 @@ Steps Followed:
 * [Step 7]() Modify the button tag returned in the render() function of the Square class so that when you click on a square, you should get an alert in your browser.
 * [Step 7.1]() Add constuctor to Square class, change Square's render method, and change Square's event handler. This causes an 'X' to appear when a square is clicked. Previous clicks stored in the Square components state.
 * [Step 8]() Add constructor to Board class that stores state of the entire board.
-* [Step ]() 
-* [Step ]() 
+* [Step 8.1]() Change Board's renderSquare method return.
+* [Step 8.2]() Change Square's render method.
 * [Step ]() 
 * [Step ]() 
 * [Step ]() 
