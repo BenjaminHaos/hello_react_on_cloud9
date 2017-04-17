@@ -27,6 +27,10 @@ Steps Followed:
 * [Step 8.1]() Change Board's renderSquare method return.
 * [Step 8.2]() Change Square's render method.
 * [Step 8.3]() Add handleClick method to Board class.
+* [Step 9]() Simplify square class. 
+* [Step 10]() Add xIsNext value to state in Board's constructor.
+* [Step 10.1]() Change Board's handleClick method.
+    * Clicks now display alternating 'X' and 'Y'
 * [Step ]() 
 * [Step ]() 
 * [Step ]() 
