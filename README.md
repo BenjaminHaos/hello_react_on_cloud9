@@ -38,7 +38,7 @@ Steps Followed:
 * [Step 11.1]() Modify handleClick to return early and ignore the click if;
     * the square is already filled.
     * someone has already won the game.
-* [Step ]() 
+* [Step 12.1]() Add constructor to Game.
 * [Step ]() 
 * [Step ]() 
 * [Step ]() 
