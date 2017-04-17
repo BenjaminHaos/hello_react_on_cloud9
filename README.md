@@ -38,7 +38,8 @@ Steps Followed:
 * [Step 11.1]() Modify handleClick to return early and ignore the click if;
     * the square is already filled.
     * someone has already won the game.
-* [Step 12.1]() Add constructor to Game.
+* [Step 12.1]() Add constructor to Game. The constructor create a state object with two atributes. The first atribute is the history array. The history array contains an object that represents the initial empty board with an array of nine null values. The second state atribute is the xIsNext variable set to true.
+    * App should still function correctly.
 * [Step ]() 
 * [Step ]() 
 * [Step ]() 
