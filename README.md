@@ -16,4 +16,14 @@ Steps Followed:
 * [Step 4]() Remove code from these files remaining.
     * src/index.js
     * src/App.js
-* [Step 5]() Copy Start here code into file.
+* [Step 5]() Copy Start here code into file. (There will be a warning for unused definition.)
+    * This step would essentially mirror tuturial one's [setup](https://facebook.github.io/react/tutorial/tutorial.html#getting-started) step.
+    * There will be a three by three matrix displayed.
+* [Step 6]() Modify Board's renderSquare method and Square's render method to demonstrate passing data through props.
+    * You should see a number in each square in the rendered output.
+    * 
+
+
+
+
+
