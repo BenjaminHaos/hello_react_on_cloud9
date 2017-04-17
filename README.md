@@ -33,6 +33,8 @@ Steps Followed:
     * Clicks now display alternating 'X' and 'Y'
 * [Step 10.2]() Modify status variable in Board's render method.
 * Message above board now changes to show who goes next.
+* [Step 11]() In Board class, create variable 'winner' equal to return of calculateWinner method when passed `this.state.squares`. 
+    * Message at top now shows when there is a winner.
 * [Step ]() 
 * [Step ]() 
 * [Step ]() 
