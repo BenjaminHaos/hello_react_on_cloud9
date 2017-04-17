@@ -44,7 +44,8 @@ Steps Followed:
     * App does not function now.
 * [Step 12.3]() Modify return of Board's renderSquare method.
     * App does not function now.
-* [Step ]() 
+* [Step 12.4]() Move determination of winner out of Board's render method and into Game's. Remove return of status div from Board's render method. In Game's render method, add history variable and current variable. Set winner equal to return of calculateWinner method when passed `current.squares`.
+    * App shows squares but throws error when square is clicked.
 * [Step ]() 
 * [Step ]() 
 * [Step ]() 
