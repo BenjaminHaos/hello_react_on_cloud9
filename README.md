@@ -48,12 +48,9 @@ Steps Followed:
     * App shows squares but throws error when square is clicked.
 * [Step 12.5]() Move handleClick method from Board class to Game class. Add declaration and definition of ```history``` and ```current``` variable to method. Change definition of ```squares``` variable.
 * App now works as it did before but stores a history of moves.
-* [Step ]() 
-* [Step ]() 
-* [Step ]() 
-* [Step ]() 
-* [Step ]() 
-* [Step ]() 
+* [Step 12.6]() Create definition of moves variable.
+
+
 
 
 
