@@ -64,7 +64,13 @@ class Game extends React.Component {
     const current = history[history.length - 1];
     const squares = current.squares.slice();
 
-    if (calculateWinner(squares) || squares[i]) {
+    // If square exists, it has already been marked.
+    if (squares[i]) {
+      return;
+    }
+
+    // If there are three in a row,
+    if (calculateWinner(squares)) {
       return;
     }
 
@@ -143,7 +149,7 @@ function calculateWinner(squares) {
   for (let i = 0; i < lines.length; i++) {
     const [a, b, c] = lines[i];
     if (squares[a] && squares[a] === squares[b] && squares[a] === squares[c]) {
-      return squares[a];
+      return [a, b, c];
     }
   }
 

@@ -2,11 +2,19 @@
 
 ## Explained for Cloud9 IDE
 
-Tutorials Used:
+## Run with:
+
+```bash
+npm install
+npm start
+```
+
+
+### Tutorials Used:
 
 1. https://facebook.github.io/react/tutorial/tutorial.html (designed for CodePen)
 
-Steps Followed:
+### Steps Followed:
 
 * Run Clickable [command](https://gist.github.com/BenjaminHaos/ca4cc854aa946b95dde2235d1679d617) to setup react.js from root.
 * [Step 3](https://github.com/BenjaminHaos/hello_react_js/commit/965e47f52bf86b5da6308e3366d5b8cfbb9955ec "view commit with this step.") In VM's workspace directory:  
@@ -48,7 +56,7 @@ Steps Followed:
     * App shows squares but throws error when square is clicked.
 * [Step 12.5]() Move handleClick method from Board class to Game class. Add declaration and definition of ```history``` and ```current``` variable to method. Change definition of ```squares``` variable.
 * App now works as it did before but stores a history of moves.
-* [Step 12.6]() Create definition of moves variable.
+* [Step 12.6]() In Game class; Create definition of moves variable, add jumpTo method
 
 
 
